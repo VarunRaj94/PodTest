@@ -1,4 +1,5 @@
 PODS:
+  - JWTDecode (2.1.1)
   - MaterialComponents (43.0.0):
     - MaterialComponents/ActivityIndicator (= 43.0.0)
     - MaterialComponents/AnimationTiming (= 43.0.0)
@@ -348,9 +349,11 @@ PODS:
   - MotionTransitioning (5.0.0)
 
 DEPENDENCIES:
+  - JWTDecode
   - MaterialComponents
 
 SPEC CHECKSUMS:
+  JWTDecode: 83e8b381aafe27158d9f692cbdca2b12d61d460c
   MaterialComponents: dc77450aafa8639522bb15aa9440a1a3b6946cd3
   MDFInternationalization: e355b0cebecf53d60233bd267084e49366c82513
   MDFTextAccessibility: 94098925e0853551c5a311ce7c1ecefbe297cdb6
@@ -358,6 +361,6 @@ SPEC CHECKSUMS:
   MotionInterchange: ead0e3ae1f3a5fb539e289debbc7ae036160a10d
   MotionTransitioning: 23d25edc2f4606efb922403cbac6d81af37aa33a
 
-PODFILE CHECKSUM: 540b4cfcbccb5b759635342f538e95f09c2dda1c
+PODFILE CHECKSUM: e25a5191dc3651051177f53bf4bd4b9cf712c5f9
 
 COCOAPODS: 1.4.0
